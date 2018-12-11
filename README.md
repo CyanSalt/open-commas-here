@@ -6,7 +6,7 @@
 
 ### How to use
 
-**Notice: to follow the steps below, you might need an apple developer account (free).**
+**You can [download the release](https://github.com/CyanSalt/open-commas-here/releases) if Commas is installed in your application folder; or you can follow the steps below with an apple developer account (free).**
 
 * You can open the `Open Commas Here.applescript` file in your Script Editor (could be found by Launchpad or Spotlight). If you have installed Commas outside the application folder, the file path in script source code should be replaced first.
 
